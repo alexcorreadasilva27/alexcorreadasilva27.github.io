@@ -4,121 +4,93 @@
     <meta charset="UTF-8">
     <title>Meu Portifólio</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <style>
-       /* body{background-color: black;
-        
-        }
-        .center{
-        
-        text-align: center;
-        color: black;
-        background-color: rgb(200, 200, 200);
-        border-radius: 40px;
-        }
-
-        IMG.displayed{
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            border-radius: 100%;
-        }
-
-        #twitch{
-            color: white;
-            border: 1px solid black;
-            padding: 25px 10px;
-            background-color: purple;
-            text-align: center;
-            border-radius: 100px;
-            text-decoration:none;
-            }
-
-        #Linkedin{
-            color: white;
-            text-decoration: none;
-            padding: 15px 30px;
-            border: 1px solid black;
-            padding: 25px 10px;
-            background-color: rgba(9, 64, 247, 0.705);
-            text-align: center;
-            border-radius: 100px;
-            }
-
-            #Facebook{
-            color: white;
-            text-decoration: none;
-            padding: 15px 30px;
-            border: 1px solid black;
-            padding: 25px 10px;
-            background-color: rgba(3, 40, 160, 0.705);
-            text-align: center;
-            border-radius: 100px;
-            }
-
-            #Github{
-            color: black;
-            text-decoration: none;
-            padding: 15px 30px;
-            border: 1px solid black;
-            padding: 25px 10px;
-            background-color: rgba(255, 255, 255, 0.877);
-            text-align: center;
-            border-radius: 100px;
-            }
-
-            p{
-                font-size: 30px;
-                border-radius: 1px;
-                padding: 25px 25px;
-            }*/
-
-
-
-
-
-
-    </style>
+    
 </head>
 <body>
-    <h1 class="center">Seja Bem vindo Ao meu Portifólio</h1>
-    <H1 class="center">Meu nome:</H1>
-    <h2 class="center">Alex Corrêa da Silva</h2>
-    <img class="displayed" src="minha_foto.jpg" alt="Minha Foto">
-    <br><br>
-    <h1 class="center">Sobre Mim</h1>
-    <p class="center">Tenho 26 anos sou natural de Curitba/Pr,fico muito animado e concentrado quando gosto de algo e vou até o fim, tenho muita empatia pela pessoas e estou sempre disposto a ajudar.</p>
-    <h4 class="center">Nacionalidade: Brasil</h4>
-    <h4 class="center">Estado onde moro: SC</h4>
-    <h4 class="center">Cidade: Joaçaba</h4>
+ 
+    <header class="header">
+    <h1>Seja Bem vindo Ao meu Portifólio</h1>
+    <h1>Meu nome:</h1>
+    <h2>Alex Corrêa da Silva</h2>
+  </header>
+   
+  <img class="displayed zoom" src="minha_foto.jpg" alt="Minha Foto">
+  
+    <section class="section">
+    <h1 >Sobre Mim: </h1>
+    <p >Tenho 26 anos sou natural de Curitba/Pr,fico muito animado e concentrado quando gosto de algo e vou até o fim, tenho muita empatia pela pessoas e estou sempre disposto a ajudar.</p>
+  </section>
+  
+  <aside class="endereco">
+    <h4>Endereço: </h4>
+    <h4>Nacionalidade: Brasil</h4>
+    <h4>Estado onde moro: SC</h4>
+    <h4>Cidade: Joaçaba</h4>
+  </aside>
+  
+  <header><h1 class="habilidade">Habilidades:</h1></header>
+  
+  <aside class="habilidades">
+        <div class="card-habilidades">
+        <h2>Básico da linguagem C: </h2>
+        <img class="c-image c" src="c.png" alt=""></div>
+        
+        <div class="card-habilidades">
+        <h2>Básico da linguagem Java: </h2><img class="java-image java" src="java.png" alt=""></div>
+        
+        <div class="card-habilidades">
+        <h2>Básico da linguagem C#: </h2>
+        <img class="Csharp-img Csharp" src="Csharp.png" alt="">
+        </div>
+        
+    <div class="desenvolvimento-web card-habilidades">
+        <h1>HTML</h1>
+    <img class="web-image html" src="html-logo.png" alt="">
+</div>
 
-    <h1 class="center">Habilidades:</h1>
-    <ul class="center">
-        <li><h2>Básico da linguagem C</h2></li>
-        <li><h2>Básico da linguagem Java</h2></li>
-        <li><h2>Básico da linguagem C#</h2></li>
-        
-    </ul class="center">
-    <h1 class="center">Desenvolvimento Web:</h1>
-        <ol>
-            <li class="center"><h2 class="center">HTML</h2></li>
-            <li class="center"><h2 class="center">CSS</h2></li>
-        
-        
-        </ol>
+<div class="desenvolvimento-web card-habilidades"><h1>CSS</h1>
+<img class="web-image CSS" src="css-logo.png" alt=""></div>
 
+<div class="desenvolvimento-web card-habilidades"><h1>JavaScript</h1>
+    <img class="web-image javaScript" src="javaScript-logo.png" alt=""></div>
+        </aside> 
+     
+     <h1 class="habilidade">Hobbies:</h1>
+        
+     <section class="hobbies">   
+    <div class="card-hobbies">
+        <h2>Games</h2>
+        <img class="games-img games" src="games.png" alt=""></div>
     
-    <h1 class="center">Hobbies</h1>
-    <ul class="center"><li><h2>Games</h2></li>
-    <li><h2 class="center">Livros</h2></li>
-    <li><h2 class="center">Séries</h2></li></ul>
+        <div class="card-hobbies">
+        <h2>Livros</h2><img class="livros-img livros" src="livros.png" alt=""></div>
+        
     
+        <div class="card-hobbies ">
+            <h2>Séries</h2>
+        <img class="series-img series" src="series.png" alt="">
+    </div>
+      
+      <div class="card-hobbies">
+            <h2>Filmes</h2>
+        <img class="filmes-img filmes" src="filmes.png" alt="">
+        </div>
+    <div class="card-hobbies">
+        <h2>Animes</h2>
+        <img class="animes-img animes" src="animes.png" alt="">
+    </div>
+</section>
+<h1 class="habilidade">Links</h1>
+    <footer class="footer">
     
+    <a  href="https://www.twitch.tv/josehsauro"target="_blanck"><img  id="twitch"src="twitch.png" alt=""></a>
     
+    <a href="https://www.linkedin.com/in/alex-correa-da-silva"target="_blanck"><img id="Linkedin" src="linked-in-logo.png" alt=""></a>
     
-    <h1 class="center">Links</h1>
-    <a  href="https://www.twitch.tv/josehsauro"target="_blanck"><h1 id="twitch">Me Sigam na Twitch</h1></a>
-    <a href="https://www.linkedin.com/in/alex-correa-da-silva"target="_blanck"><h1 id="Linkedin">Venha se conectar no Linkedin</h1></a>
-    <a href="https://www.facebook.com/alex.c.dasilva.982"target="_blanck"><h1 id="Facebook">Mande uma solicitação de amizade no Facebook</h1></a>
-    <a href="https://github.com/alexcorreadasilva27"target="_blanck"><h1 id="Github">Github</h1></a>
+    <a href="https://www.facebook.com/alex.c.dasilva.982"target="_blanck"><img id="Facebook" src="facebook.jpeg" alt=""></a>
+    
+    <a href="https://github.com/alexcorreadasilva27"target="_blanck"><img id="Github" src="github.png" alt=""></a>
+
+</footer>
 </body>
 </html>
