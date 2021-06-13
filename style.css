@@ -293,3 +293,7 @@ h4 {
   font-size: 30px;
   margin: auto;
 }
+
+nav {
+  background-color: blue;
+}
