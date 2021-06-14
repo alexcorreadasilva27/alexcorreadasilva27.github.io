@@ -17,7 +17,7 @@ body {
   text-align: center;
   color: black;
   background-color: rgb(200, 200, 200);
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   flex-direction: column;
   border-radius: 0px;
   margin-top: 50px;
@@ -88,14 +88,15 @@ body {
   text-align: center;
   color: black;
   background-color: rgb(200, 200, 200);
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   flex-direction: row;
   border-radius: 0px;
   margin-top: 0px;
   /* width: 500px; */
-  height: 400px; 
+  height: auto; 
   padding-top: 0px;
   justify-content: space-evenly;
+  width: auto;
 }
 
 .hobbies {
@@ -103,11 +104,13 @@ body {
   text-align: center;
   color: black;
   background-color: rgb(200, 200, 200);
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   margin-top: 0px;
   justify-content:flex-start;
   flex-direction: row;
   justify-content:space-evenly;
+  height: auto;
+  width: auto;
 }
 
 .card-hobbies {
@@ -296,4 +299,12 @@ h4 {
 
 nav {
   background-color: blue;
+}
+
+.sobre-mim {
+  align-self: center;
+}
+
+.habilidades > .card-habilidades:nth-child(6) {
+  order: 1;
 }
