@@ -1,12 +1,8 @@
-*{
-  margin-left: 0;
-  margin-right: 0;
-}
 
 
 body {
     background-color: black;
-    margin-top: 0;
+    margin: 0;
         
 }
 
@@ -15,7 +11,9 @@ body {
   flex-direction: column;
   text-align: center;
   color: black;
-  background-color: rgb(200, 200, 200);
+  background: url(welcome.jpeg);
+  background-size: 40%;
+  background-position-x:right 70px;
   border-radius: 0px;
 }
 
@@ -290,6 +288,21 @@ IMG.zoom:hover {
 
 #Github:hover {
     width: 180px;
+}
+
+#Wpp {
+  color: black;
+  text-decoration: none;
+  padding: 15px 30px;
+  border: 1px solid black;
+  padding: 25px 10px;
+  width: 100px;
+  text-align: center;
+  border-radius: 100px;
+}
+
+#Wpp:hover {
+  width: 180px;
 }
 
 p {
