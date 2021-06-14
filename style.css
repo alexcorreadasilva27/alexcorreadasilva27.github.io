@@ -1,5 +1,3 @@
-
-
 body {
     background-color: black;
     margin: 0;
@@ -11,10 +9,32 @@ body {
   flex-direction: column;
   text-align: center;
   color: black;
-  background: url(welcome.jpeg);
+  background-image: url('welcome.jpeg');
   background-size: 40%;
   background-position-x:right 70px;
   border-radius: 0px;
+  height: 280px;
+}
+
+
+.header h1 {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0;
+  opacity: 10;
+}
+
+.header h3 {
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 240px;
+}
+
+.header h2 {
+  color: white;
+  margin-top: 250px;
+  margin-bottom: 0px;
 }
 
 .section {
@@ -231,9 +251,9 @@ IMG.zoom:hover {
 }
 
 #twitch {
-  width: 100px;
+  width: 40px;
   color: white;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 25px 10px;
   text-align: center;
   border-radius: 40%;
@@ -242,67 +262,67 @@ IMG.zoom:hover {
 }
 
 #twitch:hover {
-    width: 180px;
+    width: 50px;
 }
 
 #Linkedin {
   color: white;
   text-decoration: none;
   padding: 15px 30px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 25px 10px;
-  width: 100px;
+  width: 40px;
   text-align: center;
   border-radius: 100px;
 }
 
 #Linkedin:hover {
-  width: 180px;
+  width: 50px;
 }
 
 #Facebook{
-  width: 100px;
+  width: 40px;
   color: white;
   text-decoration: none;
   padding: 15px 30px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 25px 10px;
   text-align: center;
   border-radius: 100px;
 }
 
 #Facebook:hover {
- width: 180px;
+ width: 50px;
 }
 
 #Github{
   color: black;
   text-decoration: none;
   padding: 15px 30px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 25px 10px;
-  width: 100px;
+  width: 40px;
   text-align: center;
   border-radius: 100px;
 }
 
 #Github:hover {
-    width: 180px;
+    width: 50px;
 }
 
 #Wpp {
   color: black;
   text-decoration: none;
   padding: 15px 30px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 25px 10px;
-  width: 100px;
+  width: 40px;
   text-align: center;
   border-radius: 100px;
 }
 
 #Wpp:hover {
-  width: 180px;
+  width: 50px;
 }
 
 p {
@@ -317,14 +337,12 @@ h4 {
   margin: auto;
 }
 
-nav {
+.nav {
+  color: white;
   background-color: blue;
+  text-decoration: none;
 }
 
 .sobre-mim {
   align-self: center;
-}
-
-.habilidades > .card-habilidades:nth-child(6) {
-  order: 1;
 }
