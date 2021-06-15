@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(1, 120, 250);
+}
+
+#color-palette {
+  display: inline-block;
+  margin-left: 430px;
+}
+
+.color {
+  display: inline-block;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+/* #black {
+  display: inline-block;
+  background-color: black;
+}
+
+#blue {
+  display: inline-block;
+  background-color: blue;
+}
+
+#yellow {
+  display: inline-block;
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+} */
+
+#pixel-board {
+  width: 228px;
+  height: 228px;
+  margin-left: 525px;
+  margin-top: 10px;
+  display: inline-block;
+  border: 100%;
+  margin-right: 0;
+}
+
+#title {
+  margin-left: 520px;
+}
+
+.pixel {
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  display: inline-block; /* margin-right: 3.21874988px; */
+}
+
+.selected {
+  border: 1px solid black;
+}
+
+.buttons-container {
+  margin-left: 600px;
+}
+
