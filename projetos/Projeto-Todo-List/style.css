@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(184 , 151 , 7);
+}
+
+* {
+  text-align: center;
+  border: 1px solid black;
+  margin: auto;
+}
+
+#criar-tarefa {
+  font-size: large;
+  width: 85px;
+  text-align: center;
+}
+
+.selected {
+  background-color: gray;
+}
+
+#texto-tarefa {
+  font-size: xx-large;
+  width: 300px;
+  height: 100px;
+  text-align: left;
+}
+
+li {
+  font-size: large;
+}
+
+p {
+  font-size: large;
+}
+
+header {
+  font-size: large;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+#apaga-tudo {
+  font-size: large;
+  width: 85px;
+}
+
+#remover-finalizados {
+  font-size: large;
+  width: 100px;
+}
