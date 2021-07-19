@@ -1,4 +1,4 @@
-// Baseado nesse canal do Youtube https://www.youtube.com/watch?v=Uptu3NrBFBM
+// Baseado nesse video/canal do Youtube https://www.youtube.com/watch?v=Uptu3NrBFBM
 
 const getPokemonUrl = (id) => `https://pokeapi.co/api/v2/pokemon/${id}`;
 
