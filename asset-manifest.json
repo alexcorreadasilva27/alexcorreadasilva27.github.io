@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alexcorreadasilva27/static/css/main.7cd62438.chunk.css",
-    "main.js": "/alexcorreadasilva27/static/js/main.2720c1da.chunk.js",
-    "main.js.map": "/alexcorreadasilva27/static/js/main.2720c1da.chunk.js.map",
-    "runtime-main.js": "/alexcorreadasilva27/static/js/runtime-main.623a78a6.js",
-    "runtime-main.js.map": "/alexcorreadasilva27/static/js/runtime-main.623a78a6.js.map",
-    "static/js/2.7fa568fb.chunk.js": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js",
-    "static/js/2.7fa568fb.chunk.js.map": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js.map",
-    "index.html": "/alexcorreadasilva27/index.html",
-    "precache-manifest.5a5e3deaa44507de7dcc7b2e4f1b8f88.js": "/alexcorreadasilva27/precache-manifest.5a5e3deaa44507de7dcc7b2e4f1b8f88.js",
-    "service-worker.js": "/alexcorreadasilva27/service-worker.js",
-    "static/css/main.7cd62438.chunk.css.map": "/alexcorreadasilva27/static/css/main.7cd62438.chunk.css.map",
-    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/alexcorreadasilva27/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
+    "main.css": "/alexcorreadasilva27.github.io/static/css/main.60754059.chunk.css",
+    "main.js": "/alexcorreadasilva27.github.io/static/js/main.2720c1da.chunk.js",
+    "main.js.map": "/alexcorreadasilva27.github.io/static/js/main.2720c1da.chunk.js.map",
+    "runtime-main.js": "/alexcorreadasilva27.github.io/static/js/runtime-main.581c447e.js",
+    "runtime-main.js.map": "/alexcorreadasilva27.github.io/static/js/runtime-main.581c447e.js.map",
+    "static/js/2.7fa568fb.chunk.js": "/alexcorreadasilva27.github.io/static/js/2.7fa568fb.chunk.js",
+    "static/js/2.7fa568fb.chunk.js.map": "/alexcorreadasilva27.github.io/static/js/2.7fa568fb.chunk.js.map",
+    "index.html": "/alexcorreadasilva27.github.io/index.html",
+    "precache-manifest.e9400150124e2cc442be5d847c484273.js": "/alexcorreadasilva27.github.io/precache-manifest.e9400150124e2cc442be5d847c484273.js",
+    "service-worker.js": "/alexcorreadasilva27.github.io/service-worker.js",
+    "static/css/main.60754059.chunk.css.map": "/alexcorreadasilva27.github.io/static/css/main.60754059.chunk.css.map",
+    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/alexcorreadasilva27.github.io/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/alexcorreadasilva27.github.io/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.623a78a6.js",
+    "static/js/runtime-main.581c447e.js",
     "static/js/2.7fa568fb.chunk.js",
-    "static/css/main.7cd62438.chunk.css",
+    "static/css/main.60754059.chunk.css",
     "static/js/main.2720c1da.chunk.js"
   ]
 }
