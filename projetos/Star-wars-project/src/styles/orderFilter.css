@@ -1,0 +1,54 @@
+.order-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 600px;
+  margin-top: 100px;
+  padding: 10px;
+  width: 500px;
+}
+
+span {
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: large;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}
+
+.column-sort {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  font-size: large;
+  padding: 10px;
+  text-align: center;
+}
+
+.ascendant {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}
+
+.downward {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}
+
+.column-sort-button {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  font-size: large;
+}
