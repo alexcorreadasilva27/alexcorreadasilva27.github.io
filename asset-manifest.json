@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alexcorreadasilva27/static/css/main.7cd62438.chunk.css",
-    "main.js": "/alexcorreadasilva27/static/js/main.913582a3.chunk.js",
-    "main.js.map": "/alexcorreadasilva27/static/js/main.913582a3.chunk.js.map",
-    "runtime-main.js": "/alexcorreadasilva27/static/js/runtime-main.623a78a6.js",
-    "runtime-main.js.map": "/alexcorreadasilva27/static/js/runtime-main.623a78a6.js.map",
-    "static/js/2.7fa568fb.chunk.js": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js",
-    "static/js/2.7fa568fb.chunk.js.map": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js.map",
-    "index.html": "/alexcorreadasilva27/index.html",
-    "precache-manifest.2cd2170036998df7558b4c66258f0d5c.js": "/alexcorreadasilva27/precache-manifest.2cd2170036998df7558b4c66258f0d5c.js",
-    "service-worker.js": "/alexcorreadasilva27/service-worker.js",
-    "static/css/main.7cd62438.chunk.css.map": "/alexcorreadasilva27/static/css/main.7cd62438.chunk.css.map",
-    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/alexcorreadasilva27/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/alexcorreadasilva27/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
+    "main.css": "/starWarsHooks/static/css/main.8cb9c102.chunk.css",
+    "main.js": "/starWarsHooks/static/js/main.913582a3.chunk.js",
+    "main.js.map": "/starWarsHooks/static/js/main.913582a3.chunk.js.map",
+    "runtime-main.js": "/starWarsHooks/static/js/runtime-main.9f54a6c9.js",
+    "runtime-main.js.map": "/starWarsHooks/static/js/runtime-main.9f54a6c9.js.map",
+    "static/js/2.7fa568fb.chunk.js": "/starWarsHooks/static/js/2.7fa568fb.chunk.js",
+    "static/js/2.7fa568fb.chunk.js.map": "/starWarsHooks/static/js/2.7fa568fb.chunk.js.map",
+    "index.html": "/starWarsHooks/index.html",
+    "precache-manifest.e1a20d5472decded2512377a10527439.js": "/starWarsHooks/precache-manifest.e1a20d5472decded2512377a10527439.js",
+    "service-worker.js": "/starWarsHooks/service-worker.js",
+    "static/css/main.8cb9c102.chunk.css.map": "/starWarsHooks/static/css/main.8cb9c102.chunk.css.map",
+    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/starWarsHooks/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/starWarsHooks/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.623a78a6.js",
+    "static/js/runtime-main.9f54a6c9.js",
     "static/js/2.7fa568fb.chunk.js",
-    "static/css/main.7cd62438.chunk.css",
+    "static/css/main.8cb9c102.chunk.css",
     "static/js/main.913582a3.chunk.js"
   ]
 }
