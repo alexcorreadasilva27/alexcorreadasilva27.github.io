@@ -1,0 +1,69 @@
+.planetSearch {
+  color: yellow;
+  margin-top: 480px;
+
+}
+
+.name-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  display: flex;
+  font-size: large;
+  margin-bottom: 10px;
+  margin-left: 550px;
+  text-align: center;
+  width: 500px;
+}
+
+.column-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  display: flex;
+  font-size: large;
+  margin-bottom: 10px;
+  margin-left: 550px;
+  text-align: center;
+  width: 510px;
+}
+
+.comparison-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  font-size: large;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  text-align: center;
+  width: 260px;
+}
+
+.value-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  font-size: large;
+  text-align: center;
+  width: 220px;
+}
+
+.button-filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  margin-left: 700px;
+  text-align: center;
+  width: 250px;
+}
+
+.filter {
+  border: 5px solid yellow;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: large;
+}
+
+.button {
+  border: 5px solid red;
+  border-radius: 10px;
+  color: red;
+  font-size: large;
+}
