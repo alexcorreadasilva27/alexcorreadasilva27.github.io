@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/starWarsProject/static/css/main.bb71cd8b.chunk.css",
-    "main.js": "/starWarsProject/static/js/main.c13415d8.chunk.js",
-    "main.js.map": "/starWarsProject/static/js/main.c13415d8.chunk.js.map",
-    "runtime-main.js": "/starWarsProject/static/js/runtime-main.1677c364.js",
-    "runtime-main.js.map": "/starWarsProject/static/js/runtime-main.1677c364.js.map",
-    "static/js/2.7fa568fb.chunk.js": "/starWarsProject/static/js/2.7fa568fb.chunk.js",
-    "static/js/2.7fa568fb.chunk.js.map": "/starWarsProject/static/js/2.7fa568fb.chunk.js.map",
-    "index.html": "/starWarsProject/index.html",
-    "precache-manifest.08093dd39a24967259f0122be4cca824.js": "/starWarsProject/precache-manifest.08093dd39a24967259f0122be4cca824.js",
-    "service-worker.js": "/starWarsProject/service-worker.js",
-    "static/css/main.bb71cd8b.chunk.css.map": "/starWarsProject/static/css/main.bb71cd8b.chunk.css.map",
-    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/starWarsProject/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/starWarsProject/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
+    "main.css": "/Star-wars-project/static/css/main.03dd5c00.chunk.css",
+    "main.js": "/Star-wars-project/static/js/main.c13415d8.chunk.js",
+    "main.js.map": "/Star-wars-project/static/js/main.c13415d8.chunk.js.map",
+    "runtime-main.js": "/Star-wars-project/static/js/runtime-main.7cb91b6d.js",
+    "runtime-main.js.map": "/Star-wars-project/static/js/runtime-main.7cb91b6d.js.map",
+    "static/js/2.7fa568fb.chunk.js": "/Star-wars-project/static/js/2.7fa568fb.chunk.js",
+    "static/js/2.7fa568fb.chunk.js.map": "/Star-wars-project/static/js/2.7fa568fb.chunk.js.map",
+    "index.html": "/Star-wars-project/index.html",
+    "precache-manifest.c4fd55b5cf231bb267aae13b4ebdffe3.js": "/Star-wars-project/precache-manifest.c4fd55b5cf231bb267aae13b4ebdffe3.js",
+    "service-worker.js": "/Star-wars-project/service-worker.js",
+    "static/css/main.03dd5c00.chunk.css.map": "/Star-wars-project/static/css/main.03dd5c00.chunk.css.map",
+    "static/js/2.7fa568fb.chunk.js.LICENSE.txt": "/Star-wars-project/static/js/2.7fa568fb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Star-wars-project/static/media/wp7248728-star-wars-dark-side-wallpapers.30d0c9ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1677c364.js",
+    "static/js/runtime-main.7cb91b6d.js",
     "static/js/2.7fa568fb.chunk.js",
-    "static/css/main.bb71cd8b.chunk.css",
+    "static/css/main.03dd5c00.chunk.css",
     "static/js/main.c13415d8.chunk.js"
   ]
 }
